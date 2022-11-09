@@ -16,4 +16,4 @@ app.include_router(complaints.router, prefix="/ch03")
 
 @app.get("/ch03")
 def index():
-    return {"message": "Cooking Recipe Rating Prototype!"}
+    return {"message": "FastAPI03"}
