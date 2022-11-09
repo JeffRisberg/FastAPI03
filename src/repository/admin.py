@@ -3,7 +3,6 @@ from repository.login import logs_visitor
 
 
 class AdminRepository:
-
     def __init__(self):
         pass
 
