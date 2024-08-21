@@ -1,4 +1,4 @@
-anyio==3.7.1
+anyio==4.4.0
 click==8.1.7
 colorama==0.4.5
 dependency-injector==4.39.1
@@ -6,10 +6,10 @@ fastapi==0.112.1
 h11==0.13.0
 idna==3.3
 lagom==1.7.1
-pydantic==1.9.1
+pydantic==1.10.17
 python-multipart==0.0.5
 six==1.16.0
 sniffio==1.2.0
-starlette==0.37.2
+starlette==0.38.2
 typing_extensions==4.8.0
 uvicorn[standard]==0.30.6
