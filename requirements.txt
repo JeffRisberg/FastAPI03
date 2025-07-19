@@ -2,7 +2,7 @@ anyio==4.4.0
 click==8.1.7
 colorama==0.4.5
 dependency-injector==4.39.1
-fastapi==0.115.5
+fastapi==0.116.1
 h11==0.13.0
 idna==3.3
 lagom==1.7.1
@@ -11,7 +11,8 @@ python-multipart==0.0.5
 requests==2.32.3
 six==1.16.0
 sniffio==1.2.0
-starlette==0.41.3
+starlette==0.47.1
 typing_extensions==4.12.2
-uvicorn[standard]==0.32.1
+uvicorn[standard]==0.35.0
+
 
